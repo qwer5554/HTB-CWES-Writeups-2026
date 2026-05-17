@@ -30,11 +30,16 @@ Notes and Tips https://tr.ee/p195Pu
 Since the practice in the modules is limited, I recommend solving these specific machines on the Hack The Box main platform. It’s a short list, but it’s definitely better than nothing and will help you get used to manual exploitation:
 
 Union
+
 Soccer
+
 Delivery
+
 Shoppy
+
 BountyHunter
+
 Cronos
 
-##Conclusion
+## Conclusion
 Overall, I recommend this certification. It provides an excellent foundation and genuinely teaches you new things. Regarding its popularity: while you rarely see it mentioned in job descriptions compared to the OSCP, many practicing pentesters know and even require it due to the high quality of the material.
